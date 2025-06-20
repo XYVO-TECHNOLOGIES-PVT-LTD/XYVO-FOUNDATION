@@ -25,11 +25,7 @@ Welcome to the official GitHub of **XYVO Technologies Pvt. Ltd.**, a futuristic 
 
 ---
 
-## 🌟 Featured Projects
-- `LaborsEverywhere` – A hiring platform with monthly payout control  
-- `JK Updates Portal` – Real-time student updates for J&K  
-- `SarwarAltafGPTBot` – ChatGPT-integrated Telegram bot  
-- `Class 10 EXP Memories` – Batch photo/video portal  
+
 
 ---
 
