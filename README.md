@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\SARWAR ALTAF\Downloads\491462252_1102752661615638_1149568922078095909_n.jpg"" alt="XYVO Logo" width="200"/>
+  <img src="https://github.com/XYVO-TECHNOLOGIES-PVT-LTD/XYVO-FOUNDATION/main/xyvo-logo.jpg" alt="XYVO Logo" width="200"/>
 </p>
 
 # 🚀 XYVO Technologies Pvt. Ltd.
@@ -23,6 +23,12 @@ Welcome to the official GitHub of **XYVO Technologies Pvt. Ltd.**, a futuristic 
 - 🏫 Class Archive & Memory Sites  
 
 ---
+
+## 🌟 Featured Projects
+- `LaborsEverywhere` – A hiring platform with monthly payout control  
+- `JK Updates Portal` – Real-time student updates for J&K  
+- `SarwarAltafGPTBot` – ChatGPT-integrated Telegram bot  
+- `Class 10 EXP Memories` – Batch photo/video portal  
 
 ---
 
