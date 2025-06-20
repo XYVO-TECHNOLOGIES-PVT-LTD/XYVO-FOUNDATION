@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XYVO-TECHNOLOGIES-PVT-LTD/XYVO-TECHNOLOGIES-PVT-LTD/main/xyvo-logo.jpg" alt="XYVO Logo" width="200"/>
+  <img src=""C:\Users\SARWAR ALTAF\Downloads\491462252_1102752661615638_1149568922078095909_n.jpg"" alt="XYVO Logo" width="200"/>
 </p>
 
 # 🚀 XYVO Technologies Pvt. Ltd.
